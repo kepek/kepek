@@ -1,20 +1,32 @@
 ## Hi there, I'm Michal 👋
 
-I'm a frontend engineer who builds enterprise web applications. I specialize in modernizing legacy systems and building high-performing development teams.
+I'm a frontend engineer who builds enterprise web applications and e-commerce platforms. I specialize in modernizing legacy systems and building high-performing development teams.
 
 - 🔭 I'm currently working on modernizing legacy systems into responsive web applications at [Columbus](https://www.columbusglobal.com/?ref=https://github.com/kepek)
 - 🌱 Currently diving deep into WebGL and exploring micro-frontend architectures
 - 👯 Always up for collaborating on Angular libraries or anything that makes developers' lives easier
-- 💬 Happy to chat about legacy migrations, team building, or why TypeScript is worth the initial pain
+- 💬 Happy to chat about legacy migrations, B2B e-commerce platforms, team building, or why TypeScript is worth the initial pain
 - 📫 How to reach me: [michal@kechner.name](mailto:michal@kechner.name)
 - ⚡ Fun fact: I witnessed the epic rise and fall of both Netscape Navigator and Adobe Flash - two technologies that once ruled the web
 
 ### :space_invader: Tech Stack
 
--   :computer: [Angular](https://github.com/kepek?tab=repositories&language=typescript) / [TypeScript](https://github.com/kepek?tab=repositories&language=typescript) / [Node.js](https://github.com/kepek?tab=repositories&language=javascript) / [React](https://github.com/kepek?tab=repositories) / [Vue.js](https://github.com/kepek?tab=repositories) / [WebGL](https://github.com/kepek?tab=repositories)  
--   :package: [macOS](https://www.apple.com/macos/) / [VS Code](https://code.visualstudio.com/) / [WebStorm](https://www.jetbrains.com/webstorm/) / [Docker](https://www.docker.com/) / [Nx](https://nx.dev/) / [AWS](https://aws.amazon.com/) / [PostgreSQL](https://www.postgresql.org/)
--   :art: [Tailwind CSS](https://tailwindcss.com/) / [Storybook](https://storybook.js.org/) / [Figma](https://www.figma.com/) / [Design Systems](https://github.com/kepek?tab=repositories)
--   :gear: [Playwright](https://playwright.dev/) / [Vitest](https://vitest.dev/) / [CI/CD](https://github.com/kepek?tab=repositories) / [Kubernetes](https://kubernetes.io/)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <hr>
 
