@@ -5,7 +5,7 @@ I'm a frontend engineer who builds enterprise web applications and e-commerce pl
 - 🔭 I'm currently working on modernizing legacy systems into responsive web applications at [Columbus](https://www.columbusglobal.com/?ref=https://github.com/kepek)
 - 🌱 Currently diving deep into WebGL and exploring micro-frontend architectures
 - 👯 Always up for collaborating on Angular libraries or anything that makes developers' lives easier
-- 💬 Happy to chat about legacy migrations, B2B e-commerce platforms, team building, or why TypeScript is worth the initial pain
+- 💬 Happy to chat about legacy migrations, e-commerce, team building, or why TypeScript is worth the initial pain
 - 📫 How to reach me: [michal@kechner.name](mailto:michal@kechner.name)
 - ⚡ Fun fact: I witnessed the epic rise and fall of both Netscape Navigator and Adobe Flash - two technologies that once ruled the web
 
