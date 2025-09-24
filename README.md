@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Michal 👋
 
-I'm **Michał**, and I turn legacy nightmares into modern web apps. Principal Frontend Engineer who still gets excited about clean code.
+I'm a frontend engineer who builds enterprise web applications. I specialize in modernizing legacy systems and building high-performing development teams.
 
-- 🔭 I'm currently working on modernizing legacy systems into responsive web applications at [Columbus](https://www.columbusglobal.com/)
+- 🔭 I'm currently working on modernizing legacy systems into responsive web applications at [Columbus](https://www.columbusglobal.com/?ref=https://github.com/kepek)
 - 🌱 Currently diving deep into WebGL and exploring micro-frontend architectures
 - 👯 Always up for collaborating on Angular libraries or anything that makes developers' lives easier
 - 💬 Happy to chat about legacy migrations, team building, or why TypeScript is worth the initial pain
@@ -29,3 +29,5 @@ I'm **Michał**, and I turn legacy nightmares into modern web apps. Principal Fr
     <a href="https://kechner.name/resume">Résumé</a>
   </samp>
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=675702)
